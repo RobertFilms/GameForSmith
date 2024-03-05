@@ -1,0 +1,6 @@
+class Race {
+    constructor(){
+        
+
+    }
+}
